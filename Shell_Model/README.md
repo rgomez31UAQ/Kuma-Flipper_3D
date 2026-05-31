@@ -150,6 +150,11 @@ Now simply repeat all steps **in reverse order** to assemble everything into the
 
 **6. Assembly Notes**
 
+Due to batch variations, the bottom casing may differ slightly. The latest version features optimized component placement, improving the RFID analog range. When installing the coil and magnetic shielding sticker, please note that you need to move the sticker from the right side of the image to the left side and trim it appropriately.
+
+Additionally, due to the change in position, the RFID coil (red coil) wire will be shorter. You will need to remove one loop of wire before soldering it to the PCB (don't worry, missing one loop won't significantly affect the frequency).
+![Step_1](./Step/betterRFID.jpg)
+
 When reconnecting the coil:
 
 If you have a soldering iron, it is strongly recommended to solder the connection for better reliability.
