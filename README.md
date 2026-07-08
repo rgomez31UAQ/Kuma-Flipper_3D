@@ -1,3 +1,7 @@
+# <center>KUMA
+
+![Image](./Image/kuma.JPG)
+
 Welcome here, and thank you all for your support. This is the public directory of the KUMA project, where some files will be gradually open-sourced.
 
 > [!IMPORTANT]
