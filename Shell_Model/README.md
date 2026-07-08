@@ -34,8 +34,8 @@ I used **PETG** material for printing. With proper printer settings, the result 
 
 <sub>*This directory includes 5 parts: Top Shell, Middle Layer, Bottom Shell, Buttons, and Light Pipe.*</sub>
 
-![print\_view\_1](./V1/image/print_view_1.jpg)
-![print\_view\_1](./V1/image/print_view_2.jpg)
+![print\_view\_1](./V1/image/print_view_1.JPG)
+![print\_view\_1](./V1/image/print_view_2.JPG)
 
 > [!TIP]
 > `LED_Light_Pipe.step` is the front light pipe of the device and should be printed using transparent filament.
@@ -43,7 +43,7 @@ I used **PETG** material for printing. With proper printer settings, the result 
 
 ### File Description: [Transparent Version of V1](./V1_Transparent)
 
-![print_view_1](./V1_Transparent/image/IMG_0002.jpg)
+![print_view_1](./V1_Transparent/image/IMG_0002.JPG)
 
 This is an experimental transparent-version enclosure. If you'd like to try a transparent appearance, you can print this version.
 
@@ -51,7 +51,7 @@ Compared to the standard model, the separate light guide columns have been remov
 
 <sub>*This directory includes 4 parts: top shell, middle layer, bottom shell, and buttons.*</sub>
 
-![print_view_1](./V1_Transparent/image/IMG_0001.jpg)
+![print_view_1](./V1_Transparent/image/IMG_0001.JPG)
 
 > [!TIP]
 > `Botton_One.STEP` is the keycap model, and you need to print 6 pieces.If the keycaps are a little loose, you'll need to use a small amount of glue to secure them, but be careful not to let the glue drip under the key contacts.
@@ -153,7 +153,7 @@ Now simply repeat all steps **in reverse order** to assemble everything into the
 Due to batch variations, the bottom casing may differ slightly. The latest version features optimized component placement, improving the RFID analog range. When installing the coil and magnetic shielding sticker, please note that you need to move the sticker from the right side of the image to the left side and trim it appropriately.
 
 Additionally, due to the change in position, the RFID coil (red coil) wire will be shorter. You will need to remove one loop of wire before soldering it to the PCB (don't worry, missing one loop won't significantly affect the frequency).
-![Step_1](./Step/betterRFID.jpg)
+![Step_1](./Step/betterRFID.JPG)
 
 When reconnecting the coil:
 
